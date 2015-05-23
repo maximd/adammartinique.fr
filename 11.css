@@ -1,0 +1,38 @@
+/* ::::: http://adammartinique.fr/misc/drupal.css ::::: */
+
+img { border: 0px none; }
+table { border-collapse: collapse; }
+.breadcrumb { padding-bottom: 0.5em; }
+/* ::::: http://adammartinique.fr/themes/chameleon/common.css ::::: */
+
+a, a:link, a:active { font-weight: bold; text-decoration: none; }
+a:hover { text-decoration: underline; }
+body { margin: 0px; padding: 3em; font-size: 0.9em; line-height: 1.3em; }
+table { margin: 0px; padding: 0.5em; border-collapse: collapse; }
+h1, h2, h3, h4, h5, h6 { margin-bottom: 0.25em; }
+h1 { font-size: 1.3em; }
+h2 { font-size: 1.2em; }
+br { line-height: 0.6em; }
+#header { margin-bottom: 2em; }
+#content { clear: both; }
+#main { padding-left: 1em; padding-right: 1em; vertical-align: top; }
+#footer { font-size: 0.8em; padding-top: 2em; text-align: center; }
+.title { margin: 0px 0px 0.25em; }
+.content { margin: 0px 0px 0.5em; }
+.links { font-size: 0.8em; line-height: 1.25em; }
+.navlinks { padding: 0em 0.5em 1.5em 0em; clear: both; }
+.primary a { font-size: 1em; padding: 0em 0.5em 0em 0em; }
+.secondary a { font-size: 0.9em; padding: 0em 0.5em 0em 0em; }
+#header img { float: left; padding: 0em 2em 0.5em 0em; }
+#header { clear: both; }
+/* ::::: http://adammartinique.fr/themes/chameleon/style.css ::::: */
+
+a, a:link, a:active { color: rgb(153, 51, 0); }
+a:visited { color: rgb(102, 51, 0); }
+body { padding: 5em 0px 0px 3em; background-image: url('background.png'); background-repeat: repeat-x; font-family: trebuchet ms,tahoma,verdana,arial,helvetica; border-top: 10px solid gray; }
+#main { width: 100%; }
+#header .title { font-size: 2em; font-weight: bold; padding-top: 0.75em; }
+#header .title a, #header .title a:link, #header .title a:visited, #header .title a:active { text-decoration: none; color: rgb(170, 170, 170); }
+#header .title a:hover { color: rgb(153, 51, 0); }
+#header .site-slogan { margin-top: -0.1em; font-size: 0.8em; }
+.links { margin: 1em 0px 3em; text-align: right; }

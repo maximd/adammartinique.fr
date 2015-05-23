@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="ADAM Martinique | Association pour la Défense et la promotion de l'Architecture Moderniste en Martin..." title="ADAM Martinique | Association pour la Défense et la promotion de l'Architecture Moderniste en Martinique">
+<page file="apropos.html" text="L'association" title="À propos | ADAM Martinique">
+<page file="contact.html" text="Contact" title="Contact | ADAM Martinique"/>
+<page file="node.html" text="Accueil" title="ADAM Martinique | Association pour la Défense et la promotion de l'Architecture Moderniste en Martinique"/>
+</page>
+<page file="image.html" text="Le patrimoine architectural" title="Galeries d'images | ADAM Martinique">
+<page file="tracker.html" text="Contributions récentes" title="Contributions récentes | ADAM Martinique"/>
+<page file="taxonomy_browser.html" text="Navigateur de catégories" title="Navigateur de catégories | ADAM Martinique"/>
+<page file="2.html" text="" title="gal | ADAM Martinique">
+<page file="11.html" text="" title="Maison 2 | ADAM Martinique"/>
+<page file="10.html" text="" title="Maison 1 | ADAM Martinique"/>
+</page>
+</page>
+<page file="notice.html" text="ADAM Martinique 2006" title="Mentions légales | ADAM Martinique"/>
+</page>
+</site>

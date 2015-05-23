@@ -1,0 +1,11 @@
+http://adammartinique.fr/	index
+http://adammartinique.fr/apropos	apropos
+http://adammartinique.fr/image	image
+http://adammartinique.fr/notice	notice
+http://adammartinique.fr/contact	contact
+http://adammartinique.fr/node	node
+http://adammartinique.fr/tracker	tracker
+http://adammartinique.fr/taxonomy_browser	taxonomy_browser
+http://adammartinique.fr/image/tid/2	2
+http://adammartinique.fr/node/11	11
+http://adammartinique.fr/node/10	10
